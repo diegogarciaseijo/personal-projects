@@ -1,2 +1,7 @@
-# personal-projects
-A collection of personal programming projects while learning computer science and software development.
+# Personal Projects
+
+Projects created on my own while learning programming.
+
+## Projects
+
+- **Calculator**: A basic calculator written in C.
