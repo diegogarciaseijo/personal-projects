@@ -24,4 +24,4 @@ A command-line implementation of the classic Hangman game written in C.
 
 ## What I Learned
 
-This was my first larger personal project in C. It helped me practice working with strings, arrays, functions, loops, random number generation, and game logic without following a tutorial.
+This was my first larger personal project in C. It helped me practice working with strings, arrays, functions, loops, random number generation, and game logic on my own.
